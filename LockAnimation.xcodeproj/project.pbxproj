@@ -14,6 +14,7 @@
 		3C8B46BA2ADE870E00024B80 /* LockAnimationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8B46B92ADE870E00024B80 /* LockAnimationTests.swift */; };
 		3C8B46C42ADE870E00024B80 /* LockAnimationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8B46C32ADE870E00024B80 /* LockAnimationUITests.swift */; };
 		3C8B46C62ADE870E00024B80 /* LockAnimationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8B46C52ADE870E00024B80 /* LockAnimationUITestsLaunchTests.swift */; };
+		3C8B46D32ADE875C00024B80 /* LockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C8B46D22ADE875C00024B80 /* LockView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3C8B46BF2ADE870E00024B80 /* LockAnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LockAnimationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C8B46C32ADE870E00024B80 /* LockAnimationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockAnimationUITests.swift; sourceTree = "<group>"; };
 		3C8B46C52ADE870E00024B80 /* LockAnimationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockAnimationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3C8B46D22ADE875C00024B80 /* LockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				3C8B46A82ADE870B00024B80 /* LockAnimationApp.swift */,
 				3C8B46AA2ADE870B00024B80 /* ContentView.swift */,
+				3C8B46D22ADE875C00024B80 /* LockView.swift */,
 				3C8B46AC2ADE870E00024B80 /* Assets.xcassets */,
 				3C8B46AE2ADE870E00024B80 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				3C8B46AB2ADE870B00024B80 /* ContentView.swift in Sources */,
 				3C8B46A92ADE870B00024B80 /* LockAnimationApp.swift in Sources */,
+				3C8B46D32ADE875C00024B80 /* LockView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
